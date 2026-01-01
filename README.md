@@ -1,6 +1,6 @@
 ### Hi, I'm Rodrigo Paiva 👋 
 
-## 👨‍💻 University Student, Cybersecurity, Network, Infrastructure Enthusiast & Software Developer
+## 👨‍💻 University Student, Cybersecurity, Network & Infrastructure Enthusiast & Software Developer
 
 ## Connect with me:
 [![Website](https://img.shields.io/badge/Website-%237289DA.svg?logo=Apache&logoColor=white)](https://rodrigopaiva.pt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigopaiva.03)
