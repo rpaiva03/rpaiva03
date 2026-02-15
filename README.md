@@ -1,6 +1,7 @@
 ### Hi, I'm Rodrigo Paiva! 👋 
 
-#### 👨‍💻 Student in Master Degree of Applied Computer Science and Bachelor Degree Graduated in Web, Mobile and Cloud Computing by University of Beira Interior
+#### 👨‍💻 Currently a Student in Master Degree of Applied Computer Science 
+#### 👨‍💻 Bachelor Degree Graduated in Web, Mobile and Cloud Computing by University of Beira Interior
 #### 👨‍💻 Cybersecurity, Network & Infrastructure Enthusiast, in Focus to Future Progression to Software and Networking Objects Development
 
 
