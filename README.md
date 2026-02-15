@@ -1,6 +1,7 @@
 ### Hi, I'm Rodrigo Paiva 👋 
 
-## 👨‍💻 University Student, Cybersecurity, Network & Infrastructure Enthusiast & Software Developer
+## 👨‍💻 Student in Master Degree of Applied Computer Science and Bachelor Degree in Web, Mobile and Cloud Computing by University of Beira Interior
+## 👨‍💻 Cybersecurity, Network & Infrastructure Enthusiast, in Focus to Future Progression to Software and Networking Objects Development
 
 ## Connect with me:
 [![Website](https://img.shields.io/badge/Website-%237289DA.svg?logo=Apache&logoColor=white)](https://rpaiva.pt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigopaiva.03)
